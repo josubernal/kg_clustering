@@ -1,7 +1,3 @@
-Here's a rewritten version of your text with cool Markdown formatting and some minor rephrasing for clarity and engagement:
-
------
-
 # Welcome to Our Semantic Project\! 🚀
 
 In this project, we'll embark on a journey to build a robust Knowledge Graph, query it using SPARQL, generate powerful embeddings, cluster our data, and visualize it all in a dashboard. Let's dive in\!
